@@ -13,3 +13,6 @@ La serpiente se mueve por la cuadrícula recolectando comida y crece a medida qu
 - **Detección de colisiones** que finalizan el juego cuando la serpiente choca con el borde o con su propio cuerpo.
 - **Controles mediante las flechas del teclado** (`↑`, `↓`, `←`, `→`).
 - **Botón de inicio** para empezar una nueva partida.
+
+![Imagen del juego](https://github.com/veroyols/snake/blob/master/img.png)
+
